@@ -1,0 +1,16 @@
+[
+    {
+        "image": "images/FE.jpeg",
+        "title": "Frontend Development",
+        "instructor": "Naveed Waddo",
+        "duration": "4-weeks",
+        "price": 1200
+    },
+    {
+        "image": "images/BE.jpeg",
+        "title": "Back End Development",
+        "instructor": "Naveed Waddo",
+        "duration": "6-weeks",
+        "price": 1500
+    }
+]
