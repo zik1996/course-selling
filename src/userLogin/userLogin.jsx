@@ -37,6 +37,7 @@ export function UserLogin() {
                 alert("You have successfully login");
                 // setCookie("username", user.Name)
                 // navigate("/courses")
+                // Set cookies when user login
                 setCookie("username", user.Name, { path: "/" })
                 setTimeout(() => {
                     navigate("/courses")
